@@ -1,20 +1,4 @@
-// import React from 'react'
 
-// function GifList({gifs}) {
-// console.log(gifs)
-//   return (
-//     <div>
-//         {Object.keys(gifs).map(gif => {
-//             return(<>
-//                 <li key={gif.id} ><img src={gif.url} alt={gif.title} key={gif.id}/></li>
-//             </>)
-//         })}
-//     </div>
-//   )
-// }
-
-// export default GifList
-// import React from 'react'
 
 function GifList({gifs}) {
   console.log(gifs)
